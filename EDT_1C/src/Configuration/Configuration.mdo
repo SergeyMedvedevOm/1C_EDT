@@ -37,4 +37,5 @@
   </languages>
   <commonModules>CommonModule.ph_РасширенныеВозможности</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
+  <dataProcessors>DataProcessor.Obrabotka1c</dataProcessors>
 </mdclass:Configuration>

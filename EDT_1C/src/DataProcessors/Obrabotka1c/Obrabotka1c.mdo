@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c8548ffc-089d-44be-a009-5c1efc6ff277">
+  <producedTypes>
+    <objectType typeId="8b2273f8-43be-4b12-ae8b-8f82d8b851df" valueTypeId="a9db9a20-65d2-4164-86ad-d739adeca621"/>
+    <managerType typeId="ee1f8333-9a76-4752-b0bd-2cdcf11dc1c2" valueTypeId="35f99546-6463-4eac-9460-6f3c5dfdeff7"/>
+  </producedTypes>
+  <name>Obrabotka1c</name>
+  <synonym>
+    <key>ru</key>
+    <value>Obrabotka1c</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.Obrabotka1c.Form.Form</defaultForm>
+  <forms uuid="0e2817e9-4f5f-4446-a89b-c2d27931d39a">
+    <name>Form</name>
+    <synonym>
+      <key>ru</key>
+      <value>Form</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
