@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="950b8e45-4b94-4d5e-a2c1-d79be394afc5">
+  <name>ph_РасширенныеВозможности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ph расширенные возможности</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>
