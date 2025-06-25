@@ -36,4 +36,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ph_РасширенныеВозможности</commonModules>
+  <catalogs>Catalog.Пользователи</catalogs>
 </mdclass:Configuration>
