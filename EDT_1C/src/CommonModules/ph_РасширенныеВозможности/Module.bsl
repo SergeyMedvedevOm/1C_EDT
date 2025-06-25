@@ -1,5 +1,4 @@
 Процедура HelloWorld() Экспорт
 	Сообщить("Hello World!");
-
-qwe=qwe;
+	Return;
 КонецПроцедуры
