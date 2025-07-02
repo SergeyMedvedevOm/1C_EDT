@@ -6,4 +6,5 @@
     <value>Ph расширенные возможности</value>
   </synonym>
   <server>true</server>
+  <serverCall>true</serverCall>
 </mdclass:CommonModule>
