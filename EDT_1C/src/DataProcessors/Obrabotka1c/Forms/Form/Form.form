@@ -186,7 +186,7 @@
     </userVisible>
     <title>
       <key>ru</key>
-      <value>Группа2</value>
+      <value>Группа Альберта</value>
     </title>
     <extendedTooltip>
       <name>Группа2РасширеннаяПодсказка</name>
@@ -202,8 +202,10 @@
     <extInfo xsi:type="form:UsualGroupExtInfo">
       <group>HorizontalIfPossible</group>
       <behavior>Auto</behavior>
+      <representation>StrongSeparation</representation>
       <showLeftMargin>true</showLeftMargin>
       <united>true</united>
+      <showTitle>true</showTitle>
       <throughAlign>Auto</throughAlign>
       <currentRowUse>Auto</currentRowUse>
     </extInfo>
