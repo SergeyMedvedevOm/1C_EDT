@@ -243,7 +243,7 @@
     <name>Группа3</name>
     <id>18</id>
     <items xsi:type="form:Button">
-      <name>Nursilya</name>
+      <name>NF</name>
       <id>16</id>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -251,7 +251,7 @@
         <common>true</common>
       </userVisible>
       <extendedTooltip>
-        <name>NursilyaРасширеннаяПодсказка</name>
+        <name>NFРасширеннаяПодсказка</name>
         <id>17</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -266,7 +266,7 @@
         </extInfo>
       </extendedTooltip>
       <type>UsualButton</type>
-      <commandName>Form.Command.Nursilya</commandName>
+      <commandName>Form.Command.NF</commandName>
       <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -406,10 +406,10 @@
     <currentRowUse>Auto</currentRowUse>
   </formCommands>
   <formCommands>
-    <name>Nursilya</name>
+    <name>NF</name>
     <title>
       <key>ru</key>
-      <value>Nursilya</value>
+      <value>NF</value>
     </title>
     <id>5</id>
     <use>
